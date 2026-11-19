@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="90" viewBox="0 0 1280 90" preserveAspectRatio="none" aria-hidden="true">
+<style>.w1{animation:w 9s ease-in-out infinite alternate}.w2{animation:w 12s ease-in-out infinite alternate-reverse}@keyframes w{from{transform:translateX(0)}to{transform:translateX(-120px)}}</style>
+<path class="w1" d="M0 40 C160 10 320 70 480 40 S800 10 960 40 S1280 70 1440 40 V90 H0Z" fill="#5A2346" opacity=".7"/>
+<path class="w2" d="M-120 55 C80 30 240 80 420 55 S760 30 940 55 S1260 80 1440 55 V90 H-120Z" fill="#3E1C45"/>
+</svg>

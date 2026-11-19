@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" aria-label="Step 1">
+<style>.beat{transform-box:fill-box;transform-origin:center;animation:beat 1.6s ease-in-out infinite}@keyframes beat{0%,100%{transform:translate(60px,62px) scale(2.1)}15%{transform:translate(60px,62px) scale(2.5)}30%{transform:translate(60px,62px) scale(2.15)}45%{transform:translate(60px,62px) scale(2.4)}}
+.pen{transform-box:fill-box;transform-origin:bottom left;animation:pen 2s ease-in-out infinite}@keyframes pen{0%,100%{transform:rotate(0)}50%{transform:rotate(-14deg) translate(-4px,4px)}}
+.wig{animation:wig 3s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes wig{0%,100%{transform:rotate(-3deg)}50%{transform:rotate(3deg)}}
+.fly{animation:fly 2.4s ease-in-out infinite}@keyframes fly{0%{transform:translate(-6px,6px)}50%{transform:translate(6px,-8px)}100%{transform:translate(-6px,6px)}}
+.dash{animation:dash 1.2s linear infinite}@keyframes dash{to{stroke-dashoffset:-20}}
+.ring{transform-box:fill-box;transform-origin:center;animation:ring 3s ease-in-out infinite}@keyframes ring{0%,100%{transform:scale(1)}50%{transform:scale(1.06)}}</style>
+<circle class="ring" cx="60" cy="60" r="56" fill="#FDE6EE" stroke="#F8BBD0" stroke-width="3"/>
+<path class="beat" d="M0,-6 C-3,-12 -12,-10 -12,-3 C-12,4 -4,9 0,13 C4,9 12,4 12,-3 C12,-10 3,-12 0,-6Z" transform="translate(60,62) scale(2.2)" fill="#E91E63"/>
+<circle cx="98" cy="22" r="16" fill="#5B1F3E"/><text x="98" y="28" text-anchor="middle" font-family="Georgia, serif" font-weight="bold" font-size="17" fill="#fff">1</text>
+</svg>
