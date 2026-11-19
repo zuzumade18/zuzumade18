@@ -170,6 +170,21 @@ seal tod kar khulne wala letter, ek puzzle jo aapka message dikhata hai, aur aat
 
 <br />
 
+<h2 align="center">📝 Fresh from the blog · <i>Blog se taaza</i></h2>
+
+<p align="center"><sub>Gift ideas, guides and little ways to make someone feel special. Updates on its own from <a href="https://zuzumade.com/blog">zuzumade.com/blog</a>.</sub></p>
+
+<!-- BLOG:START -->
+<table>
+<tr><td align="center" valign="top" width="33%"><a href="https://zuzumade.com/blog/romantic-birthday-surprise-ideas-for-wife-girlfriend"><img src="https://zuzumade.com/blog/media/feed/blog-yw6vutdkj9yivbsy.jpg?v=09bf743172" width="260" alt="15 Romantic Birthday Surprise Ideas for Wife &amp; Girlfriend ❤️🎂" /></a><br /><a href="https://zuzumade.com/blog/romantic-birthday-surprise-ideas-for-wife-girlfriend"><b>15 Romantic Birthday Surprise Ideas for Wife &amp; Girlfriend ❤️🎂</b></a><br /><sub>Love · 19 Nov 2026</sub></td><td align="center" valign="top" width="33%"><a href="https://zuzumade.com/blog/new-year-surprise-ideas-for-mom-family"><img src="https://zuzumade.com/blog/media/feed/blog-60c4vd2ebebw2sql.jpg?v=f686b1544f" width="260" alt="New Year Surprise Ideas for Mom &amp; Family: 15 Ways to Welcome 2027 🎆" /></a><br /><a href="https://zuzumade.com/blog/new-year-surprise-ideas-for-mom-family"><b>New Year Surprise Ideas for Mom &amp; Family: 15 Ways to Welcome 2027 🎆</b></a><br /><sub>Festivals · 19 Nov 2026</sub></td><td align="center" valign="top" width="33%"><a href="https://zuzumade.com/blog/christmas-surprise-ideas-for-girlfriend-wife"><img src="https://zuzumade.com/blog/media/feed/blog-h5c3vrduhmpvrpcn.jpg?v=f8b51dc5b7" width="260" alt="Christmas Surprise Ideas for Girlfriend &amp; Wife: 15 Ideas 🎄❤️" /></a><br /><a href="https://zuzumade.com/blog/christmas-surprise-ideas-for-girlfriend-wife"><b>Christmas Surprise Ideas for Girlfriend &amp; Wife: 15 Ideas 🎄❤️</b></a><br /><sub>Love · 19 Nov 2026</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://zuzumade.com/blog/birthday-surprise-ideas-for-sister"><img src="https://zuzumade.com/blog/media/feed/blog-o3m9bw0zwst6dkmt.jpg?v=02fd9806c5" width="260" alt="15 Birthday Surprise Ideas for Sister That She Will Never Forget 🎂" /></a><br /><a href="https://zuzumade.com/blog/birthday-surprise-ideas-for-sister"><b>15 Birthday Surprise Ideas for Sister That She Will Never Forget 🎂</b></a><br /><sub>Birthday · 19 Nov 2026</sub></td><td align="center" valign="top" width="33%"><a href="https://zuzumade.com/blog/happy-new-year-2027-wishes"><img src="https://zuzumade.com/blog/media/feed/blog-6p1m4qtyxba78mvw.jpg?v=54f0f63e99" width="260" alt="Happy New Year 2027 Wishes: 54 Messages for Love, Family &amp; Work 🎆" /></a><br /><a href="https://zuzumade.com/blog/happy-new-year-2027-wishes"><b>Happy New Year 2027 Wishes: 54 Messages for Love, Family &amp; Work 🎆</b></a><br /><sub>Festivals · 18 Nov 2026</sub></td><td align="center" valign="top" width="33%"><a href="https://zuzumade.com/blog/princess-day-2026-wishes"><img src="https://zuzumade.com/blog/media/feed/blog-jbxpet5vvkpc7hac.jpg?v=29daaca2eb" width="260" alt="Princess Day 2026: 52 Wishes for Girlfriend, Daughter &amp; Sister 👑❤️" /></a><br /><a href="https://zuzumade.com/blog/princess-day-2026-wishes"><b>Princess Day 2026: 52 Wishes for Girlfriend, Daughter &amp; Sister 👑❤️</b></a><br /><sub>Festivals · 18 Nov 2026</sub></td></tr>
+</table>
+<!-- BLOG:END -->
+
+<p align="center"><a href="https://zuzumade.com/blog"><b>Read all posts →</b></a></p>
+
+<br />
+
 <h2 align="center">💬 Say hi · <i>Humse baat karo</i></h2>
 
 <p align="center">
@@ -192,6 +207,5 @@ seal tod kar khulne wala letter, ek puzzle jo aapka message dikhata hai, aur aat
 </picture>
 
 <p align="center">
-  <b>Made with 💗 in India</b> · <a href="https://zuzumade.com">zuzumade.com</a><br />
-  <sub>Animations: free animations from <a href="https://lottiefiles.com">LottieFiles</a> (Lottie Simple License).</sub>
+  <b>Made with 💗 in India</b> · <a href="https://zuzumade.com">zuzumade.com</a>
 </p>
